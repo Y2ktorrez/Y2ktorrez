@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Torrez! 👋
 
-<!--
-**Y2ktorrez/Y2ktorrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings! I am a backend and database-focused software developer, proficient in languages like Java, Python, Go, Flutter and TypeScript. Based in Santa Cruz, Bolivia, I blend technical expertise with a passion for crafting scalable, efficient, and secure solutions that drive modern applications.
 
-Here are some ideas to get you started:
+## My Skills 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Go, Java, Python, TypeScript 
+- **Web Development:** React, Next.js
+- **Frameworks:** Fiber, SpringBoot, Django, Nestjs
+- **Mobile:** Flutter
+
+As a **backend** developer, I’ve spearheaded projects that solve critical challenges in finance, healthcare, and e-commerce. Each project underscores my focus on technical excellence, scalability, and security, while delivering measurable business value.
+
+- banking_application-nestjs
+- medical_system-sprigboot
+- banking_application-flutter
+- ecommerce-springboot
+- React and NextJs
+
+## Connect with Me 🌐
+
+I love connecting with fellow developers and learners. Feel free to reach out to me on these platforms:
+
+- [Instagram](https://www.instagram.com/________________________torrez/) - Follow me!
+- [Twitter](https://x.com/Y2ktorrezz) - Follow me for updates and tips!
+- [LinkedIn](https://www.linkedin.com/in/andres-torrez-vaca-6a277930a/) - Let's connect professionally!
