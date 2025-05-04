@@ -4,9 +4,9 @@ Software Developer with 2 years of experience and 1 year in the job market speci
 
 ## My Skills 💻
 
-- **Languages:** Go, Java, Python, TypeScript 
-- **Web Development:** React, Next.js
-- **Frameworks:** Fiber, SpringBoot, Django, Nestjs, FastAPI
+- **Languages:** Python, TypeScript, C#
+- **Web Development:** Next.js, React
+- **Frameworks:** Django, .NET, Nestjs
 - **Mobile:** Flutter
 - **Database:** PostgreSQL, SQL Server, MongoDB
 - **Infrastructure and Tools:** AWS, Railway, Docker, Cloudflare and Kubernetes
@@ -14,10 +14,11 @@ Software Developer with 2 years of experience and 1 year in the job market speci
 As a **backend** developer, I’ve spearheaded projects that solve critical challenges in finance, healthcare, and e-commerce. Each project underscores my focus on technical excellence, scalability, and security, while delivering measurable business value.
 
 - banking_application-nestjs
-- medical_system-sprigboot
+- medical_system-django
 - banking_application-flutter
-- ecommerce-springboot
-- React and NextJs
+- layout_designer-django
+- layout_designer-nextjs
+- teslo_shop-nextjs
 
 ## Connect with Me 🌐
 
